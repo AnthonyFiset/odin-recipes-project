@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    background-color: #644e4e;
+    color: #f14b4b;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.container {
+    border: 1px solid #f14b4b;
+    margin: -2px;
+}
+
+.logo {
+    border: 1px solid #f14b4b;
+}
+
+.main-img {
+    border: 1px solid #f14b4b;
+}
+
+.main-info {
+    border: 1px solid #f14b4b;
+}
+
+.recipe-list {
+    border: 1px solid #f14b4b;
+    list-style: none;
+}
